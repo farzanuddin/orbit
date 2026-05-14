@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none"><circle
+cx="14"
+cy="14"
+r="12"
+stroke="url(#logoGrad)"
+stroke-width="2.5"/><path
+d="M14 4C10 4 6 8 6 14s4 10 8 10"
+stroke="url(#logoGrad)"
+stroke-width="2.5"
+stroke-linecap="round"/><circle cx="14" cy="14" r="3" fill="url(#logoGrad)"/><defs><linearGradient
+id="logoGrad"
+x1="4"
+y1="4"
+x2="22"
+y2="24"
+gradientUnits="userSpaceOnUse"
+><stop stop-color="rgba(155, 109, 255, 1)"/><stop offset="1" stop-color="rgba(64, 223, 167, 1)"/></linearGradient></defs></svg>
